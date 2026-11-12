@@ -1,0 +1,33 @@
+#cars = ["bmw" , "volvo" , "benz" , "audi"]
+
+#for car in cars:
+    #print(car)
+
+#name = input("Enter your name: ").lower()
+#students = ["john","alice","mic"]
+
+#for student in students:
+    #if name == student:
+        #print("welcome")
+
+#print(range(0,20))
+
+# name = "shegun"
+# print(dir(name))
+
+ 
+# #names = ["shegs", "chibuizzy"]
+# #converted_data = list(enumerates(names))
+# #print(converted_data)
+
+# names = ["shegs", "chibuizzy"]
+# ages = (70, 8)
+# new_data = tuple(zip(names, ages))
+# print(new_data)
+
+# print(list(range(1,20, 3)))
+# print(list(range(1,20)))
+print(list(range(20)))
+
+for i in range(10):
+    print(i)
